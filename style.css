@@ -1,11 +1,11 @@
-*{    cursor: url('mouse1.png'), auto;
+*{    cursor: url(mouse1.png), auto;
 }
 
 body {
   margin: 0;
   padding: 0;
   font-family: Arial, sans-serif;
-  background-image:url(background empire.png) ;
+  background-image:url(background\ empire.png) ;
   background-repeat: no-repeat;
   color: #fff;
   overflow-x: hidden;
