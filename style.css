@@ -4,7 +4,7 @@ body {
   margin: 0;
   padding: 0;
   color: #000; /* تغيير لون النص إلى الأسود */
-  background: url('background.png') no-repeat center center fixed;
+  background: url('https://lorddzx.github.io/empire-wiki/background.png') no-repeat center center fixed;
   background-size: cover;
   overflow-x: hidden;
 }
